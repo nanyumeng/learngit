@@ -5,3 +5,5 @@ Git tracks changes
 Creating a new branch is quick and simple.
 add merge.
 try about stash.
+try the new feature.
+
